@@ -1,0 +1,106 @@
+    body{
+    margin: 0em;
+    padding: 0em;
+    overflow-x: hidden;
+    background-color: #303E47; 
+    height:978; 
+    }
+    .heading{
+        color: #F15F60;
+    }
+    .margin{
+        margin-top: 5em
+    }
+    .rounded{
+        
+        height:60px;
+        width:60px;
+        margin-left:500%;
+    }
+    .col-6 bg-info{
+        text-align:center;
+
+    }
+    .marginrow{
+    
+        height:60px;
+        width:60px;
+        
+    }
+    .smoking{
+        height:30px;
+        width:30px;
+    }
+   .col-12{
+       margin-left:20px;
+   }
+   .tv{
+       margin-left:900px;
+       margin-top:-90px;
+       width:90px;
+       height:90%;
+   }
+   .cycle{
+       height:100px;
+       width:140px ;
+       margin-left:900px;
+       margin-top:-60px;
+   }
+   .money{
+       padding:15px;
+       padding-bottom:15px;
+       height:120px;
+       width:100px;
+   }
+   .div6{
+       padding:15px;
+       padding-bottom: 15px;
+   }
+   .picture{
+       height:50px;
+       width:50px;
+       margin-left:40px;
+   }
+   .div5{
+       padding:25px;
+       padding-bottom:25px;
+   }
+   .div4{
+    padding:15px;
+    padding-bottom:15px;
+   }
+   .div3{
+    padding:15px;
+    padding-bottom:15px;
+   }
+ .div2{
+    padding:15px;
+    padding-bottom:15px;
+ }
+.div1{
+    padding:20px;
+    padding-bottom:20px;
+}
+.div6{
+    padding:20px;
+    padding-bottom:20px;
+
+}
+.div7{
+    padding:20px;
+    padding-bottom:20px;
+
+}
+.div8{
+    padding:20px;
+    padding-bottom:30px;
+
+}
+.div9{
+    padding:20px;
+    padding-bottom: 20px;
+}
+.div10{
+    padding:25px;
+    padding-bottom: 25px;
+}
